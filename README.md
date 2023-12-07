@@ -4,4 +4,4 @@
 
 ### Programmers
 1. Lv1. [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) - [풀이](https://github.com/je-s0n/programmers-java/blob/main/Lv1/달리기경주.java)
-2.  
+2. Lv1. [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv1/문지열을%20정수로%20바꾸기.java)
