@@ -29,3 +29,5 @@
 
 ### Lv2.   
 1. [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/최댓값과%20최솟값.java)
+2. [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951#) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/JadenCase%20문자열%20만들기.java)
+3. [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/최솟값%20만들기.java)
