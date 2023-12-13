@@ -34,3 +34,4 @@
 4. [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/올바른%20괄호.java)
 5. [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/이진%20변환%20반복하기.java)
 6. [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/숫자의%20표현.java)
+7. [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/다음%20큰%20숫자.java)
