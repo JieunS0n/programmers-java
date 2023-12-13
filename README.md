@@ -32,3 +32,4 @@
 2. [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951#) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/JadenCase%20문자열%20만들기.java)
 3. [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/최솟값%20만들기.java)
 4. [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/올바른%20괄호.java)
+5. [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/이진%20변환%20반복하기.java)
