@@ -37,3 +37,4 @@
 7. [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/다음%20큰%20숫자.java)
 8. [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/피보나치%20수.java)
 9. [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/짝지어%20제거하기.java)
+10. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/카펫.java)
