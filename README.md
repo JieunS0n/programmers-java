@@ -42,3 +42,4 @@
 12. [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/점프와%20순간%20이동.java)
 13. [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/구명보트.java)
 14. [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/예상%20대진표.java)
+15. [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/N개의%20최소공배수.java)
