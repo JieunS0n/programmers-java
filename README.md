@@ -41,3 +41,4 @@
 11. [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/영어%20끝말잇기.java)
 12. [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/점프와%20순간%20이동.java)
 13. [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/구명보트.java)
+14. [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/예상%20대진표.java)
