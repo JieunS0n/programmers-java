@@ -45,3 +45,4 @@
 15. [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/N개의%20최소공배수.java)
 16. [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/멀리%20뛰기.java)
 17. [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/귤%20고르기.java)
+18. [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/연속%20부분%20수열%20합의%20개수.java)
