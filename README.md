@@ -44,3 +44,4 @@
 14. [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/예상%20대진표.java)
 15. [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/N개의%20최소공배수.java)
 16. [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/멀리%20뛰기.java)
+17. [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/귤%20고르기.java)
