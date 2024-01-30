@@ -46,3 +46,4 @@
 16. [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/멀리%20뛰기.java)
 17. [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/귤%20고르기.java)
 18. [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/연속%20부분%20수열%20합의%20개수.java)
+19. [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
