@@ -48,3 +48,6 @@
 18. [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/연속%20부분%20수열%20합의%20개수.java)
 19. [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
 20. [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127?language=java) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java)
+21. [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.java)
+22. [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java)
+23. [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/H-Index.java)
