@@ -52,3 +52,5 @@
 22. [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java)
 23. [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/H-Index.java)
 24. [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%EC%9D%98%EC%83%81.java)
+25. [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.java)
+26. [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/%ED%8A%9C%ED%94%8C.java)
