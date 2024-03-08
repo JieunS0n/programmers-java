@@ -57,3 +57,4 @@
 27. [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/기능개발.java)
 28. [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/프로세스.java)
 29. [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/피로도.java)
+30. [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) - [풀이](https://github.com/je-s0n/algorithm-java/blob/main/programmers/Lv2/전화번호%20목록.java)
